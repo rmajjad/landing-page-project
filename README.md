@@ -55,15 +55,15 @@ Observe active section highlighting: As you scroll through the page, the section
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-Fork the repository: Click the "Fork" button at the top of the repository page to create a copy of the repository on your GitHub account.
-Create a new branch: Create a new branch for your feature or bug fix using the command git checkout -b feature-branch.
-Make your changes: Implement your feature or fix the bug in your new branch.
-Commit your changes: Commit your changes with a descriptive message using git commit -m 'Add some feature'.
-Push to the branch: Push your changes to your forked repository using git push origin feature-branch.
-Open a pull request: Open a pull request from your forked repository to the original repository, describing your changes and why they should be merged.
+- Fork the repository: Click the "Fork" button at the top of the repository page to create a copy of the repository on your GitHub account.
+- Create a new branch: Create a new branch for your feature or bug fix using the command git checkout -b feature-branch.
+- Make your changes: Implement your feature or fix the bug in your new branch.
+- Commit your changes: Commit your changes with a descriptive message using git commit -m 'Add some feature'.
+- Push to the branch: Push your changes to your forked repository using git push origin feature-branch.
+- Open a pull request: Open a pull request from your forked repository to the original repository, describing your changes and why they should be merged.
 
 ## Acknowledgments
 
-Udacity: For providing the project inspiration and guidelines.
-Google Fonts: For the typography used in this project.
-Contributors: Thanks to all contributors for their improvements and suggestions.
+- Udacity: For providing the project inspiration and guidelines.
+- Google Fonts: For the typography used in this project.
+- Contributors: Thanks to all contributors for their improvements and suggestions.
