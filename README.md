@@ -12,7 +12,6 @@ This project demonstrates manipulating the DOM using JavaScript to dynamically b
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Project Description
